@@ -32,13 +32,13 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/RafaMPinheiro/To-do_RN.git
+    $ git clone https://github.com/RafaMPinheiro/To.do_RN.git
 
     # Entrar no diretório
-    $ cd To-do_RN
+    $ cd To.do_RN
 
     # Instalar as dependências
-    $ yarn init
+    $ yarn install
 
     # Iniciar o projeto
     $ yarn start
